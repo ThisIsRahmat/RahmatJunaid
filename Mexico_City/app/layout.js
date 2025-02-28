@@ -1,9 +1,8 @@
 import "./Styles.css";
 
 export const metadata = {
-  title: "Matt Mannucci | Product & Design",
-  description: "Product and design generalist based in Berkeley, CA",
-};
+  title: "Mexico City",
+  description: "Test"}
 
 export default function RootLayout({ children }) {
   return (
