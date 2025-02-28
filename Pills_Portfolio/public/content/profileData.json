@@ -1,0 +1,358 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "rahmat",
+    "displayName": "Rahmat Junaid",
+    "profession": "AI Product Engineer 👩🏾‍💻",
+    "location": "England",
+    "pronouns": "she/her",
+    "byline": "Fullstack Engineer from England, UK 🇬🇧",
+    "website": "rahmatjunaid.com",
+    "websiteURL": "http://rahmatjunaid.com/",
+    "about": " \nI like to build things with a keen customer focus.\n\nCurrently exploring AI products, particularly AI voice agents and conversational AI.",
+    "status": {
+      "text": "Open to freelance development work ",
+      "emoji": "😎",
+      "timestamp": "2024-09-28T14:39:23.549Z"
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [
+    {
+      "id": "j2WUAhzzwH1mJ6CcVGpF",
+      "year": "2024",
+      "heading": "Interview Genie",
+      "url": "https://interviewgenie.co/",
+      "collaborators": [],
+      "description": "A conversational agent that runs mock interviews to help users prepare for job interviews. \n\nTech: Next.js Postgres, Tailwind",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Interview Genie",
+      "company": ""
+    },
+    {
+      "id": "kF9gEdhPbCRdRDVy7YTi",
+      "year": "2023",
+      "heading": "OpenSaas Finder",
+      "url": "https://opensaasfinder.com/",
+      "collaborators": [],
+      "description": "A website for finding Open source alternatives to popular saas products.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2678,
+          "height": 1580,
+          "url": "/content/media/OpenSaas-Finder.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "OpenSaas Finder",
+      "company": null
+    },
+    {
+      "id": "RzwxIBT0wYeA5eyfVCcQ",
+      "year": "2023",
+      "heading": "StudyWiz",
+      "url": "https://www.studywiz.co/",
+      "collaborators": [],
+      "description": "As part of AssemblyAI's hackathon I built StudyWiz a website that generates custom questions based on student's painpoints.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1788,
+          "height": 1059,
+          "url": "/content/media/StudyWiz.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "StudyWiz",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "jHZDyKtWExtMKO5EkK",
+      "year": "2024 — Now",
+      "heading": "Founder at InterviewGenie",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Founder",
+      "company": "InterviewGenie",
+      "location": "Remote"
+    },
+    {
+      "id": "jHZDyKtWExtMKO5EkK4l",
+      "year": "2023 — 2024",
+      "heading": "Product Support Engineer at Appvia",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Support Engineer",
+      "company": "Appvia",
+      "location": "London"
+    },
+
+    {
+      "id": "CcBmYYxgUv7IRzPTIox4",
+      "year": "2021 — 2022",
+      "heading": "Site Reliability Engineer at Fly.io",
+      "url": "http://fly.io",
+      "collaborators": [],
+      "description": "Responsibilities:\n\nJoined as the 3rd member of the Ops team to improve the reliability of the platform.\n\nParticipated in Linux volume migrations to improve storage reliability of customer apps without any data loss.\n\nLed and established support , worked with developer to debug their deployment failures on our platform\n\nTook part in out of hours on-call",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Site Reliability Engineer",
+      "company": "Fly.io",
+      "location": "Remote"
+    },
+    {
+      "id": "UCa7dBjVc0bFKLH7YQv9",
+      "year": "2018 — 2021",
+      "heading": "DevOps Engineer at Automation Logic",
+      "url": null,
+      "collaborators": [],
+      "description": "Responsibilities:\n\nLed the implementation of an automated system of sending weekly reports to the business stakeholders\n\nSupported customer facing digital applications\n\nParticipated in weekend and out of hours on-call \n\nWrote Jenkins pipelines to automate SSL certificate deployments and eliminated manual work by around 70%",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "DevOps Engineer",
+      "company": "Automation Logic",
+      "location": "London"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "6a193elluQXoJjqCkYQl",
+      "year": "2020 — 2020",
+      "heading": "Mentor at Black Girls in Tech",
+      "url": null,
+      "collaborators": [],
+      "description": "Mentored a recent graduate looking into switching into a DevOps role and she managed to successfully get her first job after working together. \n\nWe held bi-weekly sessions where we looked at her CV, Linkedin and worked on general job application skills together.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Mentor",
+      "organization": "Black Girls in Tech",
+      "location": null
+    }
+  ],
+  "education": [
+    {
+      "id": "zuO8jwelOhGWiVXbAVEj",
+      "year": "2015 — 2018",
+      "heading": "Bachelor's degree, Neuroscience at University of Leicester",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's degree, Neuroscience",
+      "school": "University of Leicester",
+      "location": "Leicester"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "ljSyTuI99Nee1y11YJDy",
+      "platform": "Email",
+      "handle": "hello@rahmatjunaid.com",
+      "url": "mailto:hello@rahmatjunaid.com"
+    },
+    {
+      "id": "zaAI5oEdnALp5TPnbvVk",
+      "platform": "GitHub",
+      "handle": "thisisrahmat",
+      "url": "https://github.com/thisisrahmat"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "j2WUAhzzwH1mJ6CcVGpF",
+          "year": "2024",
+          "heading": "Interview Genie",
+          "url": "https://interviewgenie.co/",
+          "collaborators": [],
+          "description": "A conversational agent that runs mock interviews to help users prepare for job interviews. \n\nTech: Next.js Postgres, Tailwind",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Interview Genie",
+          "company": ""
+        },
+        {
+          "id": "kF9gEdhPbCRdRDVy7YTi",
+          "year": "2023",
+          "heading": "OpenSaas Finder",
+          "url": "https://opensaasfinder.com/",
+          "collaborators": [],
+          "description": "A website for finding Open source alternatives to popular saas products.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2678,
+              "height": 1580,
+              "url": "/content/media/OpenSaas-Finder.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "OpenSaas Finder",
+          "company": null
+        },
+        {
+          "id": "RzwxIBT0wYeA5eyfVCcQ",
+          "year": "2023",
+          "heading": "StudyWiz",
+          "url": "https://www.studywiz.co/",
+          "collaborators": [],
+          "description": "As part of AssemblyAI's hackathon I built StudyWiz a website that generates custom questions based on student's painpoints.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1788,
+              "height": 1059,
+              "url": "/content/media/StudyWiz.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "StudyWiz",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "jHZDyKtWExtMKO5EkK4l",
+          "year": "2023 — Now",
+          "heading": "Product Support Engineer at Appvia",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Support Engineer",
+          "company": "Appvia",
+          "location": "London"
+        },
+        {
+          "id": "2NLRnwgs3HsKALiKT1CQ",
+          "year": "2024 — 2024",
+          "heading": "Freelance Frontend Developer at The Upsetters",
+          "url": null,
+          "collaborators": [],
+          "description": "Built the frontend for the demo for an [apothecary community](https://www.theupsetters.co.uk/the-apothecary-network) focused mobile app - built using plain javascript, css and html.\n\nSite hosted on a solar-powered Raspberry-pi machine.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Frontend Developer",
+          "company": "The Upsetters",
+          "location": "Remote"
+        },
+        {
+          "id": "ARIjIqqhqYH9YQJtNmdY",
+          "year": "2022 — 2023",
+          "heading": "Curriculum Developer at Xuntos",
+          "url": null,
+          "collaborators": [],
+          "description": "Created and taught content as part of the very first Xuntos technical bootcamp on CI/CD: Jenkins and Gitlab Actions",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Curriculum Developer",
+          "company": "Xuntos",
+          "location": "Remote"
+        },
+        {
+          "id": "CcBmYYxgUv7IRzPTIox4",
+          "year": "2021 — 2022",
+          "heading": "Site Reliability Engineer at Fly.io",
+          "url": "http://fly.io",
+          "collaborators": [],
+          "description": "Responsibilities:\n\nJoined as the 3rd member of the Ops team to improve the reliability of the platform.\n\nParticipated in Linux volume migrations to improve storage reliability of customer apps without any data loss.\n\nLed and established support , worked with developer to debug their deployment failures on our platform\n\nTook part in out of hours on-call",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Site Reliability Engineer",
+          "company": "Fly.io",
+          "location": "Remote"
+        },
+        {
+          "id": "UCa7dBjVc0bFKLH7YQv9",
+          "year": "2018 — 2021",
+          "heading": "DevOps Engineer at Automation Logic",
+          "url": null,
+          "collaborators": [],
+          "description": "Responsibilities:\n\nLed the implementation of an automated system of sending weekly reports to the business stakeholders\n\nSupported customer facing digital applications\n\nParticipated in weekend and out of hours on-call \n\nWrote Jenkins pipelines to automate SSL certificate deployments and eliminated manual work by around 70%",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "DevOps Engineer",
+          "company": "Automation Logic",
+          "location": "London"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "6a193elluQXoJjqCkYQl",
+          "year": "2020 — 2020",
+          "heading": "Mentor at Black Girls in Tech",
+          "url": null,
+          "collaborators": [],
+          "description": "Mentored a recent graduate looking into switching into a DevOps role and she managed to successfully get her first job after working together. \n\nWe held bi-weekly sessions where we looked at her CV, Linkedin and worked on general job application skills together.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Mentor",
+          "organization": "Black Girls in Tech",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "zuO8jwelOhGWiVXbAVEj",
+          "year": "2015 — 2018",
+          "heading": "Bachelor's degree, Neuroscience at University of Leicester",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's degree, Neuroscience",
+          "school": "University of Leicester",
+          "location": "Leicester"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "ljSyTuI99Nee1y11YJDy",
+          "platform": "Email",
+          "handle": "hello@rahmatjunaid.com",
+          "url": "mailto:hello@rahmatjunaid.com"
+        },
+        {
+          "id": "zaAI5oEdnALp5TPnbvVk",
+          "platform": "GitHub",
+          "handle": "thisisrahmat",
+          "url": "https://github.com/thisisrahmat"
+        }
+      ]
+    }
+  ]
+}
